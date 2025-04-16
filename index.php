@@ -1,4 +1,4 @@
 <?php
 require 'config.php';
-echo "Connexion réussie à la base : $db_name 🎉";
+echo "Connexion réussie à la base :  🎉";
 ?>
